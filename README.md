@@ -138,12 +138,6 @@ This project is suitable for **academic purposes**, **mini-projects**, and **lea
 
 ---
 
-## 📷 Screenshots
-
-*(Add screenshots of Login Page, Flight Search, Booking Page, and Admin Panel here)*
-
----
-
 ## 🚀 Future Enhancements
 
 * Online payment gateway integration
@@ -166,7 +160,7 @@ This project is suitable for **academic purposes**, **mini-projects**, and **lea
 
 ## 👤 Author
 
-**[Your Name]**
+**Gowtham arjun**
 Department of Computer Science
 
 ---
@@ -177,10 +171,5 @@ This project is developed for **educational purposes only**.
 
 ---
 
-## 📬 Contact
-
-For queries or suggestions, feel free to reach out.
-
----
 
 ⭐ *If you find this project helpful, consider giving it a star!*
